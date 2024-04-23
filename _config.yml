@@ -1,0 +1,8 @@
+title: Zircuit transaction digest
+description: Detailed list of transactions for the last hour.
+image: /assets/placeholder.webp
+
+
+theme: minima
+  skin:dark
+markdown: kramdown
